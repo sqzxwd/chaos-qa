@@ -1,0 +1,26 @@
+# Environments and Virtualenv
+.venv/
+env/
+venv/
+ENV/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+test_output*
+
+# Build and Distribution
+dist/
+build/
+*.egg-info/
+
+# Operating System specific
+.DS_Store
+Thumbs.db
